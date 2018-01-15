@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/FlamurAliloviq/todolist/issues"
   },
-  "homepage": "https://github.com/FlamurAliloviq/todolist#readme"
+  "homepage": "https://github.com/FlamurAliloviq/todolist#readme",
+  "dependencies": {
+    "Express": "^3.0.1",
+    "express": "^4.16.2"
+  }
 }
